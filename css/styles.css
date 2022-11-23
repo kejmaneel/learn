@@ -1,0 +1,28 @@
+.board-body {
+    width: 100%;
+    background-color: rgb(189, 185, 248);
+    border-radius: 10px;
+    margin: 15px;
+    line-height: 2.5;
+}
+.board-body2 {
+    width: 100%;
+    background-color: rgb(250, 240, 227);
+}
+.butt {
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    background-color: rgb(172, 215, 255);
+}
+.row {
+    width: 100%;
+    padding: 4px;
+}
+.col-25 {
+    width: calc(25% - 30px);
+    height: 100%;
+}
